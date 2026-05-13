@@ -1,0 +1,6 @@
+controller/App.class
+entity/Editora.class
+service/LivroService.class
+entity/Autor.class
+entity/Livro.class
+entity/TipoPublicacao.class
