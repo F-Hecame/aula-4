@@ -161,4 +161,8 @@ public class Livro implements Serializable {
 		Livro other = (Livro) obj;
 		return Objects.equals(isbn, other.isbn);
 	}
+
+    public void setAutores(List<Autor> asList) {
+        this.autores = asList;
+    }
 }
